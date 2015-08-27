@@ -11,12 +11,12 @@ This idea originaly from math as code by Jam3 on github <https://github.com/Jam3
 This work are covering an examples for list of mathematical symbols into python codes, as a reference is <https://en.wikipedia.org/wiki/List_of_mathematical_symbols>. This work are still on going, probably current version are not complete yet, but we will keep it updated as soon as we can. 
 
 ###Contents
-* [Equals notation `=`, `≈`, `≠`, `:=`](###equals) 
-* [Square root and complex numbers `√`, `i`](###sqrt_complex)
-* [Dot and cross products `·`, `×`, `∘`](###dot_cross)
-* [Sigma `Σ`](###sigma)
-* [Capital Pi `Π` ](###cap_pi)
-* [Pipes `||` ](###pipes)
+* [Equals notation `=`, `≈`, `≠`, `:=`](#equals) 
+* [Square root and complex numbers `√`, `i`](#sqrt_complex)
+* [Dot and cross products `·`, `×`, `∘`](#dot_cross)
+* [Sigma `Σ`](#sigma)
+* [Capital Pi `Π` ](#cap_pi)
+* [Pipes `||` ](#pipes)
 	* [Absolute Value]()
 	* [Euclidean Norm]()
 	* [Determinant]()
